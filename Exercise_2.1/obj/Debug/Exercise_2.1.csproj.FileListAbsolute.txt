@@ -5,3 +5,10 @@ C:\Users\h2001\source\repos\For young and stuid\Exercise_2.1\obj\Debug\Exercise_
 C:\Users\h2001\source\repos\For young and stuid\Exercise_2.1\obj\Debug\Exercise_2.1.csproj.CoreCompileInputs.cache
 C:\Users\h2001\source\repos\For young and stuid\Exercise_2.1\obj\Debug\Exercise_2.1.exe
 C:\Users\h2001\source\repos\For young and stuid\Exercise_2.1\obj\Debug\Exercise_2.1.pdb
+E:\RepositoryForGitExtensions\Exercise_2.1\obj\Debug\Exercise_2.1.csproj.AssemblyReference.cache
+E:\RepositoryForGitExtensions\Exercise_2.1\obj\Debug\Exercise_2.1.csproj.CoreCompileInputs.cache
+E:\RepositoryForGitExtensions\Exercise_2.1\obj\Debug\Exercise_2.1.exe
+E:\RepositoryForGitExtensions\Exercise_2.1\obj\Debug\Exercise_2.1.pdb
+E:\RepositoryForGitExtensions\Exercise_2.1\bin\Debug\Exercise_2.1.exe.config
+E:\RepositoryForGitExtensions\Exercise_2.1\bin\Debug\Exercise_2.1.exe
+E:\RepositoryForGitExtensions\Exercise_2.1\bin\Debug\Exercise_2.1.pdb
